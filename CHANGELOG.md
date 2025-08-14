@@ -1,3 +1,11 @@
+## 3.0.1 - 13th January, 2025
+
+- Minor fixes for static analysis
+
+## 3.0.0 - 9th August, 2024
+
+* Update dependencies
+
 ## 2.2.0 - 8th Jul, 2023
 
 * Fix SDK dependency
